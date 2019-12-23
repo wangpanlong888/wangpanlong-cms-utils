@@ -3,7 +3,7 @@
   <groupId>com.wangpanlong.utils</groupId>
   <artifactId>wangpanlong_cms_utils</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   
   <dependencies>
   	<dependency>
