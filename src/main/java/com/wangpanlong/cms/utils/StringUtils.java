@@ -43,6 +43,7 @@ public class StringUtils {
       return  str.matches(regex);	
 	}
 	
+	
 
 	/**
 	 * 判断一个字符串是否为空，空字符串也认为是的空
