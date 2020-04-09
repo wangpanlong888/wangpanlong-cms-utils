@@ -6,8 +6,8 @@ import java.util.Date;
 import java.util.Locale;
 
 /**
- * 关于日期的工具类
- * @author zhuzg
+ * 0409最新版
+ * @author 王潘龙
  *
  */
 public class DateUtils {

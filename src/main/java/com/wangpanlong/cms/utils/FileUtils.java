@@ -15,6 +15,11 @@ import java.util.Properties;
 
 import org.apache.commons.codec.digest.DigestUtils;
 
+/**
+ * 0409最新版
+ * @author 王潘龙
+ *
+ */
 public class FileUtils {
 	
 	/**

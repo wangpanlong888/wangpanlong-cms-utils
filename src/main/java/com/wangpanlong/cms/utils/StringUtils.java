@@ -7,8 +7,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * 
- * @author wang
+ * 0409最新版
+ * @author 王潘龙
  *
  */
 public class StringUtils {
